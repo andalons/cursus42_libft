@@ -1,0 +1,17 @@
+# Main
+main.c
+
+# Library
+libft.a
+
+# Build files
+.o
+
+# Executables
+*.out
+
+# Visual Code
+.vscode/
+
+# DS store
+.DS_Store
